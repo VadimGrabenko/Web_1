@@ -1,10 +1,51 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="uk">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Layout Task</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-$END$
+<div class="container">
+    <div class="block block1"><h1>Гасло 1</h1></div>
+    <div class="block block2">
+        <nav>
+            <ul>
+                <li><a href="index.html">Головна</a></li>
+                <li><a href="page2.html">Сторінка 2</a></li>
+                <li><a href="page3.html">Сторінка 3</a></li>
+                <li><a href="page4.html">Сторінка 4</a></li>
+                <li><a href="page5.html">Сторінка 5</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="block block3">
+        <h2>Списки</h2>
+        <ul>
+            <li>Перший пункт</li>
+            <li>Другий пункт</li>
+            <li>Третій пункт</li>
+        </ul>
+
+        <ol>
+            <li>Перший пункт</li>
+            <li>Другий пункт</li>
+            <li>Третій пункт</li>
+        </ol>
+    </div>
+    <div class="block block4">
+        <h2>Зображення</h2>
+        <img src="example.jpg" usemap="#image-map" alt="Example">
+
+        <map name="image-map">
+            <area shape="rect" coords="34,44,270,350" href="page2.html" alt="Сторінка 2">
+            <area shape="circle" coords="120,120,60" href="page3.html" alt="Сторінка 3">
+        </map>
+    </div>
+    <div class="block block5"><p>Тут може бути текст про якусь тему.</p></div>
+    <div class="block block6"><p>Ще більше тексту для завершення макету сторінки.</p></div>
+    <div class="block block7"><h2>Гасло 2</h2></div>
+</div>
 </body>
 </html>
