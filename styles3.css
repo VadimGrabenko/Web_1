@@ -32,7 +32,7 @@ html, body {
 
 .block1 {
     grid-area: block1;
-    background-color: #4682B4;
+    background-color: #FF6347;
     text-align: left;
     padding: 20px;
     color: white;
@@ -44,7 +44,7 @@ html, body {
 
 .block2 {
     grid-area: block2;
-    background-color: #FFDAB9;
+    background-color: #FFD700;
     text-align: center;
     padding: 20px;
     display: flex;
@@ -55,7 +55,7 @@ html, body {
 
 .block3 {
     grid-area: block3;
-    background-color: #E6E6D4;
+    background-color: #98FB98;
     text-align: center;
     padding: 20px;
     display: flex;
@@ -66,7 +66,7 @@ html, body {
 
 .block4 {
     grid-area: block4;
-    background-color: #FFDAB9;
+    background-color: #AFEEEE;
     text-align: center;
     padding: 20px;
     display: flex;
@@ -77,10 +77,10 @@ html, body {
 
 .block5 {
     grid-area: block5;
-    background-image: url('https://github.com/VadimGrabenko/Web_1/blob/main/images/pexels-lina-1741205.jpg?raw=true');
+    background-image: url('https://github.com/VadimGrabenko/Web_1/blob/main/images/pexels-pixabay-257532.jpg?raw=true');
     background-size: cover;
     background-position: center;
-    background-color: #FFFFFF;
+    background-color: #DDA0DD;
     text-align: left;
     padding: 20px;
     display: flex;
@@ -116,10 +116,9 @@ html, body {
     color: #4682B4;
 }
 
-
 .block6 {
     grid-area: block6;
-    background-color: #E6E6D4;
+    background-color: #F08080;
     text-align: center;
     padding: 20px;
     display: flex;
@@ -130,7 +129,7 @@ html, body {
 
 .block7 {
     grid-area: block7;
-    background-color: #4682B4;
+    background-color: #00CED1;
     text-align: right;
     padding: 20px;
     color: white;
