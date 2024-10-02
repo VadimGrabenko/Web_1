@@ -30,9 +30,10 @@ html, body {
     overflow: auto;
 }
 
+
 .block1 {
     grid-area: block1;
-    background-color: #4682B4;
+    background-color: #6A5ACD;
     text-align: left;
     padding: 20px;
     color: white;
@@ -44,7 +45,7 @@ html, body {
 
 .block2 {
     grid-area: block2;
-    background-color: #FFDAB9;
+    background-color: #87CEEB;
     text-align: center;
     padding: 20px;
     display: flex;
@@ -55,7 +56,7 @@ html, body {
 
 .block3 {
     grid-area: block3;
-    background-color: #E6E6D4;
+    background-color: #7FFF00;
     text-align: center;
     padding: 20px;
     display: flex;
@@ -66,7 +67,7 @@ html, body {
 
 .block4 {
     grid-area: block4;
-    background-color: #FFDAB9;
+    background-color: #FFA07A;
     text-align: center;
     padding: 20px;
     display: flex;
@@ -75,12 +76,12 @@ html, body {
     overflow-wrap: break-word;
 }
 
+
 .block5 {
     grid-area: block5;
-    background-image: url('https://github.com/VadimGrabenko/Web_1/blob/main/images/pexels-lina-1741205.jpg?raw=true');
+    background-image: url('https://github.com/VadimGrabenko/Web_1/blob/main/images/pexels-photo4passion-1828875.jpg?raw=true');
     background-size: cover;
     background-position: center;
-    background-color: #FFFFFF;
     text-align: left;
     padding: 20px;
     display: flex;
@@ -116,10 +117,9 @@ html, body {
     color: #4682B4;
 }
 
-
 .block6 {
     grid-area: block6;
-    background-color: #E6E6D4;
+    background-color: #8A2BE2;
     text-align: center;
     padding: 20px;
     display: flex;
@@ -130,7 +130,7 @@ html, body {
 
 .block7 {
     grid-area: block7;
-    background-color: #4682B4;
+    background-color: #A52A2A;
     text-align: right;
     padding: 20px;
     color: white;
